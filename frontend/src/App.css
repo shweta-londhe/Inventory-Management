@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: #f4f6f9;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.card {
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.btn {
+  border-radius: 10px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 600;
+}
+
+.container {
+  padding-top: 20px;
+}
